@@ -1,0 +1,13 @@
+.container{
+  border-color: black;
+  font-size: 26px;
+  height: 250px;
+  width: 500px;
+  background-color: antiquewhite;
+  padding-left: 20px;
+}
+.input{
+    height: 20px;
+    width: 100px
+    
+}
